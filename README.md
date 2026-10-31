@@ -1,23 +1,22 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=180&section=header&text=Andres%20Reinoso&fontSize=42&fontColor=D97706&fontAlignY=35&desc=Operations%20Engineer%20%7C%20Data%20Practitioner%20%7C%20UIUC%20MBA%20%26%20EE&descAlignY=62&descScale=18" width="100%" />
-
-  <a href="https://linkedin.com/in/andresreinoso-data">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AndresReinoso/GridVize">
-    <img src="https://img.shields.io/badge/GridVize-⚡_Energy_Analytics-D97706?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AndresReinoso/Logikoo">
-    <img src="https://img.shields.io/badge/Logikoo-📊_Data_Viz-111827?style=for-the-badge" />
-  </a>
-</div>
-
-<br />
-
 # Hi, I'm Andres Reinoso 
 
 **Operations Engineer & Data Practitioner** | UIUC MBA | Electrical Engineer  
 *Translating complex industrial & operational domains into automated data systems and interactive BI dashboards.*
+
+
+[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresreinoso-data)]
+[[![GridVize Repo](https://img.shields.io/badge/Project-GridVize-orange?style=flat-square)](https://github.com/AndresReinoso/GridVize)]
+[[![Logikoo Repo](https://img.shields.io/badge/Gig-Logikoo-blue?style=flat-square)](https://github.com/AndresReinoso/Logikoo)]
+
+---
+
+###  Key Projects
+
+-  **[GridVize](https://github.com/AndresReinoso/GridVize)** — Power grid analytics & spot market pricing dashboard.
+-  **[Logikoo](https://github.com/AndresReinoso/Logikoo)** — Custom cross-sector BI & dataviz consulting.
+-  **[Not3x10](https://github.com/AndresReinoso/Not3x10)** — Open-source data science & ML educational material.
+
+---
 
 ---
 
