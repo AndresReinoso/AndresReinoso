@@ -8,7 +8,7 @@
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
 | **[GridVize](https://github.com/AndresReinoso/GridVize)** | Power grid analytics platform & interactive dashboard monitoring generation capacity and spot market pricing | `Python` · `Jupyter Notebooks` · `Looker Studio` · `GeoPandas` |  Active Platform |
-| **[Logikoo](https://github.com/AndresReinoso/Logikoo)** | Custom data visualization & business intelligence consulting across diverse industrial sectors | `Python` · `Pandas` · `Looker Studio` · `SQL` |  Consulting Gig |
+| **[Logikoo](https://github.com/AndresReinoso/Logikoo)** | Custom dashboards & business intelligence for e-commerce, agencies, and regional operations. | `Python` · `Pandas` · `Looker Studio` · `SQL` |  Consulting Gig |
 | **[Not3x10](https://github.com/AndresReinoso/Not3x10)** | Open-source data science educational resources, Python tutorials, and machine learning guides | `Python` · `Pandas` · `Scikit-Learn` · `Jupyter` |  Open Source |
 
 
@@ -19,4 +19,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data)
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data) | **Book a 15-Min Data Audit:** [[Calendly / WhatsApp Link](https://wa.me/573178305250?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.)]
