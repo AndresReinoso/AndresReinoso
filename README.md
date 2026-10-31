@@ -3,21 +3,6 @@
 **Operations Engineer & Data Practitioner** | UIUC MBA | Electrical Engineer  
 *Translating complex industrial & operational domains into automated data systems and interactive BI dashboards.*
 
-
-[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresreinoso-data)]
-[[![GridVize Repo](https://img.shields.io/badge/Project-GridVize-orange?style=flat-square)](https://github.com/AndresReinoso/GridVize)]
-[[![Logikoo Repo](https://img.shields.io/badge/Gig-Logikoo-blue?style=flat-square)](https://github.com/AndresReinoso/Logikoo)]
-
----
-
-###  Key Projects
-
--  **[GridVize](https://github.com/AndresReinoso/GridVize)** — Power grid analytics & spot market pricing dashboard.
--  **[Logikoo](https://github.com/AndresReinoso/Logikoo)** — Custom cross-sector BI & dataviz consulting.
--  **[Not3x10](https://github.com/AndresReinoso/Not3x10)** — Open-source data science & ML educational material.
-
----
-
 ---
 
 ###  Projects & Initiatives
