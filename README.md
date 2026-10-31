@@ -19,4 +19,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data) | **Book a 15-Min Data Audit:** [[Calendly / WhatsApp Link](https://wa.me/573178305250?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.)]
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data) | **Book a 15-Min Data Audit:** [[(https://wa.me/573178305250?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.)]]
