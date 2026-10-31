@@ -9,7 +9,7 @@
 | :--- | :--- | :--- | :---: |
 | **[GridVize](https://github.com/AndresReinoso/GridVize)** | Power grid analytics platform & interactive dashboard monitoring generation capacity and spot market pricing | `Python` · `Jupyter Notebooks` · `Looker Studio` · `GeoPandas` |  Active Platform |
 | **[Logikoo](https://github.com/AndresReinoso/Logikoo)** | Custom dashboards & business intelligence for e-commerce, agencies, and regional operations. | `Python` · `Pandas` · `Looker Studio` · `SQL` |  Consulting Gig |
-| **[Not3x10](https://github.com/AndresReinoso/Not3x10)** | Open-source data science educational resources, Python tutorials, and machine learning guides | `Python` · `Pandas` · `Scikit-Learn` · `Jupyter` |  In development |
+| **[Not3x10](https://github.com/AndresReinoso/Not3x10)** | Open-source data science educational resources, Python tutorials, and machine learning guides | `Python` · `Pandas` · `Scikit-Learn` · `Jupyter` |  In Development |
 
 
 ### 🛠️ Technical Stack
