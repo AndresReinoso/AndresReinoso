@@ -12,18 +12,6 @@
 | **[Not3x10](https://github.com/AndresReinoso/Not3x10)** | Open-source data science educational resources, Python tutorials, and machine learning guides | `Python` · `Pandas` · `Scikit-Learn` · `Jupyter` |  Open Source |
 
 
-###  Technical Stack
-* **Languages & Analytics:** Python, SQL, pandas, scikit-learn
-* **Visualization & Dashboards:** Google Looker Studio, Streamlit, Plotly
-* **Domain Expertise:** Operations and Project Optimization, Power Infrastructure
-
----
-
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data) | 💬 **Book a 15-Min Data Audit:** [WhatsApp](https://wa.me/573178305250?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.)
-
-
-
-
 ### 🛠️ Technical Stack
 
 <p align="left">
@@ -37,13 +25,6 @@
 
 ---
 
-### 💬 Let's Connect
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data) | 💬 **Book a 15-Min Data Audit:** [WhatsApp](https://wa.me/573178305250?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.)
 
-<p align="left">
-  <a href="https://linkedin.com/in/andresreinoso-data">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/573001234567?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.">
-    <img src="https://img.shields.io/badge/Book_15--Min_Data_Audit-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+
