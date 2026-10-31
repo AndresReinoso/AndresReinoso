@@ -1,6 +1,6 @@
 # Hi, I'm Andres Reinoso 
 
-**Operations Engineer & Data Practitioner** | UIUC MBA | Electrical Engineer  
+**Operations / Project Engineer & Data Practitioner** | UIUC MBA | Electrical Engineer  
 *Translating complex industrial & operational domains into automated data systems and interactive BI dashboards.*
 
 ---
