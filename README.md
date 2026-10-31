@@ -20,3 +20,30 @@
 ---
 
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/andresreinoso-data) | 💬 **Book a 15-Min Data Audit:** [WhatsApp](https://wa.me/573178305250?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.)
+
+
+
+
+### 🛠️ Technical Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+### 💬 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/andresreinoso-data">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/573001234567?text=Hi%20Andres,%20I%20would%20like%20to%20book%20a%2015-minute%20data%20audit.">
+    <img src="https://img.shields.io/badge/Book_15--Min_Data_Audit-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
