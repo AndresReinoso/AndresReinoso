@@ -1,3 +1,28 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=180&section=header&text=Andres%20Reinoso&fontSize=42&fontColor=D97706&fontAlignY=35&desc=Operations%20Engineer%20%7C%20Data%20Practitioner%20%7C%20UIUC%20MBA%20%26%20EE&descAlignY=62&descScale=18" width="100%" />
+
+  <a href="https://linkedin.com/in/andresreinoso-data">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AndresReinoso/GridVize">
+    <img src="https://img.shields.io/badge/GridVize-⚡_Energy_Analytics-D97706?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/AndresReinoso/Logikoo">
+    <img src="https://img.shields.io/badge/Logikoo-📊_Data_Viz-111827?style=for-the-badge" />
+  </a>
+</div>
+
+<br />
+
+```python
+andres = {
+    "background": ["Electrical Engineering", "UIUC MBA"],
+    "focus": ["Automated Data Pipelines", "Energy Analytics", "Interactive BI"],
+    "core_stack": ["Python", "SQL", "Streamlit", "Looker Studio"],
+    "motto": "Translating complex industrial domains into automated data systems."
+}
+
+
 # Hi, I'm Andres Reinoso 
 
 **Operations Engineer & Data Practitioner** | UIUC MBA | Electrical Engineer  
