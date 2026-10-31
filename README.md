@@ -7,9 +7,9 @@
 ###  Projects & Initiatives
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| ** [GridVize](https://github.com/AndresReinoso/GridVize)** | Power grid analytics platform & interactive dashboard monitoring generation capacity and spot market pricing | `Python` · `Jupyter Notebooks` · `Looker Studio` · `GeoPandas` |  Active Platform |
-| ** [Logikoo](https://github.com/AndresReinoso/Logikoo)** | Custom data visualization & business intelligence consulting across diverse industrial sectors | `Python` · `Pandas` · `Looker Studio` · `SQL` |  Consulting Gig |
-| ** [Not3x10](https://github.com/AndresReinoso/Not3x10)** | Open-source data science educational resources, Python tutorials, and machine learning guides | `Python` · `Pandas` · `Scikit-Learn` · `Jupyter` |  Open Source |
+| **[GridVize](https://github.com/AndresReinoso/GridVize)** | Power grid analytics platform & interactive dashboard monitoring generation capacity and spot market pricing | `Python` · `Jupyter Notebooks` · `Looker Studio` · `GeoPandas` |  Active Platform |
+| **[Logikoo](https://github.com/AndresReinoso/Logikoo)** | Custom data visualization & business intelligence consulting across diverse industrial sectors | `Python` · `Pandas` · `Looker Studio` · `SQL` |  Consulting Gig |
+| **[Not3x10](https://github.com/AndresReinoso/Not3x10)** | Open-source data science educational resources, Python tutorials, and machine learning guides | `Python` · `Pandas` · `Scikit-Learn` · `Jupyter` |  Open Source |
 
 
 ###  Technical Stack
