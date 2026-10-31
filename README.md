@@ -14,15 +14,6 @@
 
 <br />
 
-```python
-andres = {
-    "background": ["Electrical Engineering", "UIUC MBA"],
-    "focus": ["Automated Data Pipelines", "Energy Analytics", "Interactive BI"],
-    "core_stack": ["Python", "SQL", "Streamlit", "Looker Studio"],
-    "motto": "Translating complex industrial domains into automated data systems."
-}
-
-
 # Hi, I'm Andres Reinoso 
 
 **Operations Engineer & Data Practitioner** | UIUC MBA | Electrical Engineer  
